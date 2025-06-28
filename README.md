@@ -8,7 +8,6 @@ Este projeto tem como objetivo apresentar uma análise visual e interativa das v
 - Tabelas Dinâmicas
 - Gráficos Dinâmicos
 - Segmentações de Dados (Slicers)
-- Formatação Condicional
 
 ## 🧩 Funcionalidades
 
