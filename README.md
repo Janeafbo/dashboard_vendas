@@ -16,7 +16,8 @@ Este projeto tem como objetivo apresentar uma análise visual e interativa das v
 - Interação com filtros para análise personalizada.
 - Painel intuitivo que facilita a tomada de decisões com base em dados.
 
-![Captura de Tela (4)](https://github.com/user-attachments/assets/dae4ccd0-ce62-4442-93ed-16ad981465c0)
+
+![Captura de Tela (6)](https://github.com/user-attachments/assets/9f09463b-6998-4b0d-9d69-b8344a356d13)
 
 
   ## 🚀 Como Usar
